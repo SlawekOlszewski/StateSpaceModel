@@ -1,0 +1,67 @@
+('C:\\Users\\Sławek '
+ 'Olszewski\\PycharmProjects\\MMM\\build\\StateSpaceModel\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Sławek '
+   'Olszewski\\PycharmProjects\\MMM\\build\\StateSpaceModel\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Sławek '
+   'Olszewski\\PycharmProjects\\MMM\\build\\StateSpaceModel\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_mpldata',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_mpldata.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Sławek '
+   'Olszewski\\AppData\\Roaming\\Python\\Python36\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('StateSpaceModel',
+   'C:\\Users\\Sławek Olszewski\\PycharmProjects\\MMM\\StateSpaceModel.py',
+   'PYSOURCE'),
+  ('StateSpaceModel.exe.manifest',
+   'C:\\Users\\Sławek '
+   'Olszewski\\PycharmProjects\\MMM\\build\\StateSpaceModel\\StateSpaceModel.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
